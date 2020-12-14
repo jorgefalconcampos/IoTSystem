@@ -1,0 +1,10 @@
+
+=== USEFUL LINKS ===
+
+- Download Java: https://www.java.com/es/download/
+- Download Python: https://www.python.org/downloads/
+- Download Spring Boot Tools: https://spring.io/tools
+- Download MySQL Server y MySQL Workbench: https://dev.mysql.com/downloads/windows/installer/8.0.html
+- Download NPM: https://nodejs.org/es/download/
+
+API: localhost:8080/api/devices
